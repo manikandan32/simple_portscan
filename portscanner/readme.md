@@ -98,19 +98,11 @@ Contributions are welcome — open an issue or submit a pull request. Please fol
 2. Keep code readable and well-commented.
 3. Add tests where appropriate.
 
----
 
-## License
-
-Choose a license for your repository (MIT, Apache-2.0, etc.). If you're not sure, the MIT License is a permissive default.
-
----
-
-## Author / Contact
+## AIM
 
 `port_scanner.py` — created for educational purposes.
 
-If you'd like improvements, specific features, or a GitHub-ready repository (with a license, `.gitignore`, CI, and a release-ready README), tell me what you want next and I will prepare it.
 
 ---
 
